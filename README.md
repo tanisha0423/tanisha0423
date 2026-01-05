@@ -41,11 +41,3 @@ I enjoy building projects end to end and following the full workflow. I've also 
 
 ![Notion](https://img.shields.io/badge/Notion-F2F2F2?style=for-the-badge&logo=notion&logoColor=333333)
 ![Riot%20Games](https://img.shields.io/badge/Riot%20Games-F6C6C6?style=for-the-badge&logo=riotgames&logoColor=8B1E1E)
-
-![](https://github-readme-stats.vercel.app/api?username=tanisha0423&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tanisha0423&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha0423&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=tanisha0423&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
