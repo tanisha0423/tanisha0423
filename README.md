@@ -34,6 +34,7 @@ I enjoy building projects end to end and following the full workflow. I've also 
 
 ![Docker](https://img.shields.io/badge/Docker-CDEBF7?style=for-the-badge&logo=docker&logoColor=1B6CA8)
 ![Vercel](https://img.shields.io/badge/Vercel-EDEDED?style=for-the-badge&logo=vercel&logoColor=000000)
+![Netlify](https://img.shields.io/badge/Netlify-C8F1EC?style=for-the-badge&logo=netlify&logoColor=0E1E25)
 ![Swagger](https://img.shields.io/badge/Swagger-DFF2D8?style=for-the-badge&logo=swagger&logoColor=2E7D32)
 ![Arduino](https://img.shields.io/badge/Arduino-CDEEEE?style=for-the-badge&logo=arduino&logoColor=004D40)
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-F5C1CF?style=for-the-badge&logo=raspberry-pi&logoColor=7A1C2D)
